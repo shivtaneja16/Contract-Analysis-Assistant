@@ -1,0 +1,12 @@
+langchain
+langchain_docling
+langchain_huggingface
+docling
+faiss-cpu
+langchain_community
+langgraph
+langchain_groq
+typing
+langchain_core
+streamlit
+pypdf
